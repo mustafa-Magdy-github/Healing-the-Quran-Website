@@ -1,0 +1,146 @@
+.Section1-Nav
+{
+ 
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Almarai', sans-serif;
+
+.app
+{
+    background:#1a1a1a94;
+    height: -webkit-fill-available;
+
+.container{
+    .row
+    {
+ 
+    padding: 21em 0em;
+    text-align: center;
+
+.col-lg-12
+{
+    div{
+        h1{
+            font-size: 50px;
+            .span1{
+                color: whitesmoke;
+            }
+
+            .span2{
+                color: #ff6b008f;
+            }
+
+            .span3{
+                color: #ffffff47;
+            }
+
+        }
+
+        h2
+        {
+            color: #ffffff;
+            line-height: 2;
+            margin: 0;
+            font-size: 40px;
+            font-family: 'Lemonada', cursive;
+            a{
+                color: #404b26;
+                transition: .3s;
+            }
+            // a:hover{
+            //     color: whitesmoke;
+            // }
+        }
+    }
+
+    div:hover a{color: whitesmoke;}
+
+
+
+}
+
+
+    }
+}
+
+
+}
+
+}
+
+
+@media (max-width: 575.98px) 
+{
+    .Section1-Nav
+    {
+     
+        height: 100vh;
+        overflow: hidden;
+        font-family: 'Almarai', sans-serif;
+    
+    .app
+    {
+        background:#1a1a1a94;
+        height: -webkit-fill-available;
+    
+    .container{
+        margin: 1em;
+        .row
+        {
+     
+        padding: 21em 0em;
+        text-align: center;
+    
+    .col-lg-12
+    {
+        div{
+            h1{
+
+
+                font-size: 50px;
+                .span1{
+                    color: whitesmoke;
+                }
+    
+                .span2{
+                    color: #ff6b008f;
+                }
+    
+                .span3{
+                    color: #ffffff47;
+                }
+    
+            }
+    
+            h2
+            {
+                color: #ffffff;
+                line-height: 2;
+                margin: 0;
+                font-size: 40px;
+                font-family: 'Lemonada', cursive;
+                a{
+                    color: #404b26;
+                    transition: .3s;
+                }
+                // a:hover{
+                //     color: whitesmoke;
+                // }
+            }
+        }
+    
+        div:hover a{color: whitesmoke;}
+    
+    
+    
+    }
+    
+    
+        }
+    }
+    
+    
+    }
+    
+    }
+}

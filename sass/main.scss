@@ -1,0 +1,47 @@
+body
+{
+    direction: rtl;
+    margin: 0;
+    color:  #ffffff;
+    background: url(https://i.pinimg.com/originals/71/d3/65/71d365c6b3117191bcbf8def41219e45.gif);
+    background-size: 100% 95%;
+    background-attachment: fixed;
+    background-position: bottom;
+ 
+ 
+a{
+    color:  #ffffff;
+}
+a:hover{
+    text-decoration: none;
+}
+
+
+}
+
+
+
+// Start Header 
+@import "vendo/header/header";
+
+
+// Start Nav
+@import "vendo/nav/Section1-Nav";
+@import "vendo/nav/Section2-Nav";
+@import "vendo/nav/Section3-Nav-Audio";
+
+// Start footer
+@import "vendo/footer/footer";
+
+
+
+
+// Start    Pages Shed-consort.html
+@import "Pages/Shed-consort/Section2-Nav_Shed-consort";
+ 
+
+// Start    Pages Eye-and-envy.html
+@import "Pages/Eye-and-envy/Section2-Eye-and-envy";
+
+
+
